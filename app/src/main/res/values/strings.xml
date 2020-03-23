@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CircularProgressBar</string>
+    <string name="text_animate">Animate</string>
+    <string name="_30">30</string>
+</resources>
